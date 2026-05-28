@@ -6,8 +6,6 @@ Un piccolo gioco di strategia in tempo reale (RTS) stile *Red Alert*, interament
 
 **▶️ Gioca qui:** https://lmacchiavelli.github.io/minitanks/
 
-> Sostituisci `TUONOME` con il tuo username GitHub dopo aver attivato Pages.
-
 ---
 
 ## Come si gioca
