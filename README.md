@@ -57,16 +57,6 @@ Tutto in un **singolo file `index.html`**: nessuna dipendenza, nessun build, nes
 
 ---
 
-## Pubblicare su GitHub Pages
-
-1. Crea un repository pubblico (es. `minitanks`)
-2. Carica il file rinominandolo **`index.html`**
-3. Vai in **Settings → Pages**
-4. Sotto *Source* scegli `Deploy from a branch`, branch `main`, cartella `/ (root)`, salva
-5. Dopo 1-2 minuti il gioco è online all'indirizzo `https://lmacchiavelli.github.io/minitanks/`
-
----
-
 ## Note
 
 - È un **esperimento giocabile**, non un prodotto commerciale: una partita dura circa 5-15 minuti.
