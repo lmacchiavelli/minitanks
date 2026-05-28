@@ -4,7 +4,7 @@
 
 Un piccolo gioco di strategia in tempo reale (RTS) stile *Red Alert*, interamente in un singolo file HTML. Difendi il tuo quartier generale da otto ondate di nemici, conquista fabbriche, costruisci difese e sopravvivi.
 
-**▶️ Gioca qui:** https://TUONOME.github.io/minitanks/
+**▶️ Gioca qui:** https://lmacchiavelli.github.io/minitanks/
 
 > Sostituisci `TUONOME` con il tuo username GitHub dopo aver attivato Pages.
 
@@ -63,7 +63,7 @@ Tutto in un **singolo file `index.html`**: nessuna dipendenza, nessun build, nes
 2. Carica il file rinominandolo **`index.html`**
 3. Vai in **Settings → Pages**
 4. Sotto *Source* scegli `Deploy from a branch`, branch `main`, cartella `/ (root)`, salva
-5. Dopo 1-2 minuti il gioco è online all'indirizzo `https://TUONOME.github.io/minitanks/`
+5. Dopo 1-2 minuti il gioco è online all'indirizzo `https://lmacchiavelli.github.io/minitanks/`
 
 ---
 
